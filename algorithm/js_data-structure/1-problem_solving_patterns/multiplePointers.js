@@ -1,5 +1,4 @@
-// Creating pointers or values that correspond to an index or position
-// and move forwards the beginning, end, or middle based on certain condition.
+// Creating pointers or values that correspond to an index or position and move forwards the beginning, end, or middle based on certain condition.
 
 // Very efficient for solving problems with minimal space complexity as well
 
